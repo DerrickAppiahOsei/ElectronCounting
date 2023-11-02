@@ -1,3 +1,3 @@
-from CountingNN import model, dataset, fcn, blocks
+from CountingNN import model, dataset, fcn, blocks, evaluation
 
-__all__ = ['dataset', 'model', 'fcn', 'blocks']
+__all__ = ['dataset', 'model', 'fcn', 'blocks', 'evaluation']
